@@ -1,7 +1,7 @@
 # Business-Insights-360
 
 
-🏬 Company Overview
+### 🏬 Company Overview
 - AtliQ Hardware(imaginary company) is a rapidly growing electronics company specializing in hardware products, including PC accessories, printers, and more. Over the years, AtliQ has expanded significantly, establishing a strong global presence in key regions such as APAC, North America, Latin America, and the European Union.
 
 The company distributes its products through two primary sales platforms:
