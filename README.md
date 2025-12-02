@@ -59,19 +59,27 @@ Data Structuring & Optimization:
 
 ### Quick Refresh Key Business Metrics :-
 
-| **Term** | **Meaning** |
-|----------|------------|
-| **Gross Revenue / Gross Sales** | Total revenue generated from selling products **before any deductions** like discounts or costs. |
-| **Net Revenue / Net Sales** | Revenue left after subtracting **all discounts and deductions**. Shows actual money earned by Atliq. |
-| **Pre-Invoice Deduction** | Discounts applied **before the invoice** is generated, usually negotiated or promotional discounts. |
-| **Post-Invoice Deduction** | Discounts or deductions applied **after the invoice** is generated, such as rebates, allowances, or other adjustments. |
-| **Forecast Quantity** | The number of units the company **expects to sell** in a certain period. |
-| **Sold Quantity** | The actual number of units sold in a given period. |
-| **Forecast Accuracy** | How close the forecast quantity is to the actual sold quantity. Higher % = better planning. |
-| **Net Error** | Difference between forecasted and sold quantity; shows if forecast **overestimated or underestimated** sales. |
-| **Absolute Error** | Difference between forecasted and sold quantity **ignoring direction**. Measures total forecasting error. |
-| **Freight Cost** | Cost to transport products from factory to warehouses, stores, or customers. |
-| **Manufacturing Cost** | Cost to produce each product, including raw materials, labor, and overhead. |
+| **Business Term**             | **Definition** |
+|------------------------------|----------------|
+| **Gross Revenue / Gross Sales** | Total revenue generated from selling products before any deductions like discounts or costs. |
+| **Pre-Invoice Deduction**       | Discounts applied before the invoice is generated, usually negotiated or promotional discounts. |
+| **Net Invoice Sales**           | Gross Revenue minus Pre-Invoice Deductions; the revenue amount that appears on the final invoice. |
+| **Post-Invoice Deduction**      | Deductions applied after the invoice is generated, such as rebates, returns, allowances, or adjustments. |
+| **Net Sales**                   | Net Invoice Sales minus Post-Invoice Deductions; actual revenue realized by the company. |
+| **Manufacturing Cost**          | Total cost to produce each product, including raw materials, labor, and overhead expenses. |
+| **Freight Cost**                | Cost to transport products from factories to warehouses, stores, or customers. |
+| **COGS (Cost of Goods Sold)**   | Total cost of producing and delivering products: Manufacturing Cost + Freight Cost + other direct costs. |
+| **Gross Margin**                | Profit remaining after subtracting COGS from Net Sales. Formula: Gross Margin = Net Sales − COGS. |
+| **Gross Margin %**              | Percentage of profit earned relative to Net Sales. Formula: (Gross Margin / Net Sales) × 100. |
+| **Operational Expense (OPEX)**  | Costs required to run the business: salaries, rent, utilities, admin, logistics, support, etc. |
+| **Marketing Spend**             | Budget spent on promotion, advertising, campaigns, branding, and customer acquisition. |
+| **Net Profit**                  | Final profit after subtracting OPEX + Marketing Spend + other expenses from Gross Margin. |
+| **Forecast Quantity**           | Number of units the company expects to sell during a specific period. |
+| **Sold Quantity**               | Actual number of units sold in the period. |
+| **Forecast Accuracy**           | How close the forecast quantity is to actual units sold. Higher % indicates better planning. |
+| **Net Error**                   | Difference between forecasted and actual sales, showing overestimation or underestimation. |
+| **Absolute Error**              | Absolute difference between forecasted and actual units sold; ignores direction. |
+
 | **Gross Margin** | Profit left after subtracting **direct costs** (manufacturing + freight) from gross revenue. |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
