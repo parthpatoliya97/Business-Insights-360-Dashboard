@@ -46,7 +46,7 @@ AtliQ’s fiscal year runs from September to August, and the dataset covers actu
 NOTE: Since this is a bootcamp project, the data files cannot be shared.
 
 
-🧹️ Data Cleaning & Transformation
+### 🧹️ Data Cleaning & Transformation
 Standardized & Trimmed Data:
 - Removed leading and trailing spaces from text fields.
 - Standardized naming conventions for consistency.
