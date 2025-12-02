@@ -9,9 +9,9 @@ The company distributes its products through two primary sales platforms:
 - E-Commerce Platforms – Selling through online giants like Amazon and Flipkart.
 
 Three Product Divisions:
-N & S : Networking & Storage
-P & A : Peripherals & Accessories
-PC
+- N & S : Networking & Storage
+- P & A : Peripherals & Accessories
+- PC
   
 Moreover, AtliQ operates through multiple sales channels:
 - Retailers – Third-party sellers, both online and offline, that stock and sell AtliQ’s products.
