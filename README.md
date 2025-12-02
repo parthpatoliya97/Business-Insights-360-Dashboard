@@ -79,9 +79,6 @@ Data Structuring & Optimization:
 | **Forecast Accuracy**           | How close the forecast quantity is to actual units sold. Higher % indicates better planning. |
 | **Net Error**                   | Difference between forecasted and actual sales, showing overestimation or underestimation. |
 | **Absolute Error**              | Absolute difference between forecasted and actual units sold; ignores direction. |
-
-| **Gross Margin** | Profit left after subtracting **direct costs** (manufacturing + freight) from gross revenue. |
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
