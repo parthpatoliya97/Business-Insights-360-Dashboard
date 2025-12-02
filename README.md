@@ -73,8 +73,7 @@ Data Structuring & Optimization:
 | **Freight Cost** | Cost to transport products from factory to warehouses, stores, or customers. |
 | **Manufacturing Cost** | Cost to produce each product, including raw materials, labor, and overhead. |
 | **Gross Margin** | Profit left after subtracting **direct costs** (manufacturing + freight) from gross revenue. |
-| **Fiscal Year** | The company’s accounting year. For Atliq: **Sep → Aug**. |
-| **Quarter** | A three-month period in the fiscal year for reporting purposes. |
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
