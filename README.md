@@ -84,3 +84,46 @@ Data Structuring & Optimization:
 ![key metrics](https://github.com/parthpatoliya97/Business-Insights-360-Dashboard/blob/main/Images/Finance_sales_metrics.jpg?raw=true)
 
 
+### 💡 Insights :-
+#### Business Growth & Financial Performance:
+- Rapid expansion: Net Sales grew ~280% (FY 2019), ~140% (FY 2020), ~200% (FY 2021), and ~350% (FY 2022).
+- Net Profit % remains negative since 2020 due to high operational and marketing expenses, typical for a company in its growth phase.
+
+#### Revenue & Market Trends:
+- APAC remained the largest market (FY 2019–FY 2022), led by India, while Latin America was the smallest.
+- Amazon was the top global customer in all years, while Nova (operating in Austria) was the smallest since FY 2020.
+- Notebook segment had the highest Revenue growth in all fiscal years but recorded the most negative Net Profit % in FY 2022, likely due to increased marketing spend.
+- Desktop had the lowest growth in FY 2019 & FY 2020, while Networking became the weakest segment in FY 2022.
+- USB flash drives underperformed in FY 2021 & FY 2022, signaling product or market challenges.
+
+#### Sales & Customer Insights:
+- Flat post-discounting model for all products and customers within each market is significantly eroding Gross Margin %. A performance-based discounting strategy per product and customer within each market is recommended to optimize profitability.
+- Certain products, like AQ 5000 Series Electron 9 5900X, AQ MB Elite, and AQ Wi Power Dx1, had zero sales in FY 2022, likely due to demand shifts or outdated models.
+
+#### Forecast Accuracy & Supply Chain Efficiency:
+- Forecast Accuracy (FCA%) dropped from ~86% (FY 2019) to ~73% (FY 2020) due to COVID-19 disruptions but improved to ~80% (FY 2021) and ~81% (FY 2022).
+- Excess inventory was a major issue in FY 2019–FY 2020, while stock shortages became a challenge in FY 2021–FY 2022.
+- Work-from-home demand surged in FY 2020, leading to stockouts for processors, keyboards, and WiFi extenders.
+
+Competitive Position & Market Share:
+- Atliq’s PC market share grew from ~1% (FY 2021) to ~6% (FY 2022), though Dale remains the dominant player.
+- India was the fastest-growing market (~13% share in FY 2022).
+- Among subzones, North America had the highest revenue in FY 2022, but Atliq’s market penetration remained only ~5%.
+
+#### Operational & Strategic Insights:
+- Sales peaked from September to December across all years, likely due to festive and year-end promotions.
+- Retailers contributed ~72% of revenue in FY 2022.
+- The UK had the highest marketing costs, making it a key area for strategy review, followed by Germany (low revenue, high marketing spend).
+
+#### 📝 Recommendations :-
+- Gradually reduce operational and marketing expenses after capturing significant market share to improve Net Profit %.
+- Shift from flat post-discounting to a performance-based model per product and customer in each market.
+- Expand distribution and targeted marketing in high-growth region like APAC and in APAC India.
+- Reevaluate the pricing or cost structure of the Notebook segment to enhance Net Profit %.
+- Investigate the underperformance of USB flash drives and consider repositioning, discontinuing, or introducing improved models.
+- Improve forecasting, especially for customers, by leveraging real-time data to minimize stock imbalances and enhance supply chain efficiency.
+- Develop targeted strategies to increase market share in North America.
+- Focus on differentiation to strengthen competitiveness in the PC segment and challenge dominant players like Dale.
+- Optimize marketing spending in the UK and Germany to improve return on investment.
+- Align inventory planning and promotions with the September–December sales surge to maximize seasonal demand.
+
