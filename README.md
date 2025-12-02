@@ -81,4 +81,6 @@ Data Structuring & Optimization:
 | **Absolute Error**              | Absolute difference between forecasted and actual units sold; ignores direction. |
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+![key metrics](https://github.com/parthpatoliya97/Business-Insights-360-Dashboard/blob/main/Images/Finance_Sales_Key_Metrics.png?raw=true)
+
 
