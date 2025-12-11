@@ -1,6 +1,5 @@
 # Business-Insights-360
 
-
 ### 🏬 Company Overview
 - AtliQ Hardware(imaginary company) is a rapidly growing electronics company specializing in hardware products, including PC accessories, printers, and more. Over the years, AtliQ has expanded significantly, establishing a strong global presence in key regions such as APAC, North America, Latin America, and the European Union.
 
@@ -20,11 +19,17 @@ Moreover, AtliQ operates through multiple sales channels:
 
 Note: AtliQ’s customers are retailers and distributors, while the consumers are the end users.
 
+--------------------------
+
 ### 🔎 Problem Statement
 - As a rapidly growing company, AtliQ Hardware's reliance on scattered Excel sheets for analytics has led to inefficient decision-making, resulting in significant losses, particularly during its Latin American expansion. Meanwhile, competitors leveraging advanced data analytics have gained an edge, leaving AtliQ struggling to keep up with outdated methods. To improve transparency in data-driven decisions and stay competitive, AtliQ has launched a data analytics project to enhance decision-making and strategic growth.
 
+--------------------------
+
 ### 🎯 Project Objective
 - To develop an intuitive dashboard that delivers actionable insights for finance, sales, marketing, and supply chain teams, along with an executive and key performers view. This will enhance transparency, improve data accessibility, and empower stakeholders to make informed, data-driven decisions for strategic growth and efficiency.
+
+------------------------
 
 ### 🛢 Data Overview
 AtliQ Hardware has provided two SQL databases and three Excel files for analysis.
@@ -50,17 +55,22 @@ AtliQ’s fiscal year runs from September to August, and the dataset covers actu
 
 NOTE: Since this is a bootcamp project, the data files cannot be shared.
 
+---------------------------
 
 ### 🧹️ Data Cleaning & Transformation
 Standardized & Trimmed Data:
 - Removed leading and trailing spaces from text fields.
 - Standardized naming conventions for consistency.
 
-Data Structuring & Optimization:
+---------------------------
+
+### Data Structuring & Optimization:
 - Created a dim_date table for better time-based analysis.
 - Append fact_sales_monthly and fact_forecast_monthly into a single table -> fact_actual_estimates, to simplify calculations.
 - Added calculated fields in fact_actual_estimates using data from relevant tables 
 - Disabled load for tables that were used to derive calculations in fact_actual_estimates to optimize performance and reduce the Power BI report size.
+
+-------------------------------
 
 ### Quick Refresh Key Business Metrics :-
 
@@ -86,6 +96,7 @@ Data Structuring & Optimization:
 | **Absolute Error**              | Absolute difference between forecasted and actual units sold; ignores direction. |
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+--------------------------
 
 ### 💡 Insights :-
 #### Business Growth & Financial Performance:
@@ -117,6 +128,8 @@ Competitive Position & Market Share:
 - Sales peaked from September to December across all years, likely due to festive and year-end promotions.
 - Retailers contributed ~72% of revenue in FY 2022.
 - The UK had the highest marketing costs, making it a key area for strategy review, followed by Germany (low revenue, high marketing spend).
+
+----------------------------
 
 #### 📝 Recommendations :-
 - Gradually reduce operational and marketing expenses after capturing significant market share to improve Net Profit %.
