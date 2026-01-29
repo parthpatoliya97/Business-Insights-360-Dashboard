@@ -143,3 +143,6 @@ Competitive Position & Market Share:
 - Optimize marketing spending in the UK and Germany to improve return on investment.
 - Align inventory planning and promotions with the September–December sales surge to maximize seasonal demand.
 
+---------------------------------
+
+Live Dashboard : [Link](https://app.powerbi.com/view?r=eyJrIjoiNDg0NWNjMjktOGRmZC00YmRiLWJjN2QtNDM0MmEzOTQ4NjNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=85afd60f8b2ac5c101f0)
